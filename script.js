@@ -82,7 +82,7 @@ const questions = [
         image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgThNslQg8SLJAsJUSb8NTI6ey9kbjnzJ6krzzqDUmOOccRJlwVgDtPB-i7TPDnjxTjEglUWt-rqhfhvi0QPK9SkGEN_j_WCFvTTqvoarGkGNRvyyt0Ch0C4zT56mRcUQ4c7eeWgWTAKa4ZbVKG2QCbgx33QF0or5BTSOrDZc4GtmQ_PCR04st0Y5tY9-Z_/s757/KakaoTalk_20240531_152346278_13.jpg",
         explanationImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHtUiTQL1r0nGaxh1bEi4lIbWBpJcCUxSDkkSn6qtuaNVBsRKL7zaOOdSK4miggOiWxLd0ub2sPnCKxRbiiOZA4eCHCGMczi80lvK_cGbBhhZjHdyfAbzS7alfFZLRmkn_QrXSkZ5-pbKOlYA1bg4rHmYU40INDanxh8u-3aIhxeNpflRFY4fyLw5nYl-O/s576/KakaoTalk_20240614_012741627_05.jpg",
         selectedAnswer: null
-    }
+    },
     {
         question: "다음 문제에 대한 알맞은 답을 고르시오",
         questionnumber : 7,
@@ -96,7 +96,7 @@ const questions = [
         image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiKU0_7WH8s8P_jkb_Si5myoZtYNsBhxfspEhyphenhyphenehfpnNRf998Jt85Tkv9mUB6mwEI8ZjtuD3hSCaTy8IHHH8hUtuMs0rcLbT7YMiuOqChhuRojDb84IvNL0e8MQd-DG1nWyGyenTVzCnlQdWu8DqJPwMfY5qmSzU0F7oO6w_hf9O-BuglkerY7-ochfA2k/s754/KakaoTalk_20240531_152346278_14.jpg",
         explanationImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZF-6rOJvCH3qFZxRLOR9hUeKhEJNLGb3qo-dGAtFJOaybthPYUXq89roDX8nQvcJSiuRDUxrDmNOgVTvKXST0vMb7wAKFt_9_HiEuZKYXWEsU_rCBybd0KtWyW-FPUGgh3KkqbUEOs8kyIIFZBm26qdmLFyRyo-T3bvdKaq1RcooAklYv6J_rKtUgEMSI/s552/KakaoTalk_20240614_012741627_06.jpg",
         selectedAnswer: null
-    }
+    },
     {
         question: "다음 문제에 대한 알맞은 답을 고르시오",
         questionnumber : 8,
@@ -110,7 +110,7 @@ const questions = [
         image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQmSJslIpeXfStD1cT7UFxMoVem1iWrs1W6b8EnIsnM90-IwLXhJQ0ANnvRA2H84IzrxvX5C_KjsDlo88i55gqQ7ojGoyg3RcJ58wPiAkZwmCGQRIPvQOQ2r-8auP-UyH9RJcyWxGo94Q_mGv8L2TfZXWrWzkGIQMBfLGTPpOV-Q75M-GdW-Vyt7eWWuYm/s734/KakaoTalk_20240531_152346278_15.jpg",
         explanationImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKEqXY_vvyWYcItGdR7Ti9svkAfLQQ5FzgBV7o1hyBBgKk3DXvsVzSsy70xsZgyiTVHZvkXj460hS9jdv1aWL7lmeqRLBe9bygzP6_S5gaWd07AW9azqYU6crP1ZTodwRR5cKynA_YCSLa0FdQTEp8ueK7rcGjrqx1Wzxv6DJ_vhhXDgj36QbPwazADKtA/s572/KakaoTalk_20240614_012741627_07.jpg",
         selectedAnswer: null
-    }
+    },
     {
         question: "다음 문제에 대한 알맞은 답을 고르시오",
         questionnumber : 9,
@@ -124,7 +124,7 @@ const questions = [
         image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXGZZFeSWSuEKXCMgMsJh3RhNzL-Uq7eCh_mKwFslB9bO3Vwol3uKpFme26xmDfstHH6xZYzVv8OZG1h4EpG0JOxLGnfSlXhd-XGaEYYgRbur18KpSXmXinNk2XSA9QF13AZ2ZCvlL9erfpB93UVoenz5y5tQPVzNh1M_FwhCZLpAwhSOqrVEnTOkpZtA/s542/1111.PNG",
         explanationImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWI7n3bMIVTAok9IDnyqsMLIMJpIop79N2EbC5bKq8TfTaLvK8XxaGhEt801A0f_bXnd0vORKfbLL4LAjp94shArYcLSlN6cSVcWEQux48wc18mOgZCdDvApWrjcET6gvZ6am7Etz_5e5LMXlfhiACH5wLon3Tc7FpqvQsQCjNJn2MNUG8KDzstDpGt5SD/s590/KakaoTalk_20240614_012741627_08.jpg",
         selectedAnswer: null
-    }
+    },
     {
         question: "다음 문제에 대한 알맞은 답을 고르시오",
         questionnumber : 10,
